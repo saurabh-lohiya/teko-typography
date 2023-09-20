@@ -1,23 +1,23 @@
--- import: <user_name>.github.io/<repo_name>/custom
+-- import: saurabh-lohiya.github.io/teko-typography/custom
 
 
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: teko-typography package
+site-title: `teko-typography`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: saurabh-lohiya.github.io/teko-typography
+current-package: saurabh-lohiya.github.io/teko-typography
 
-This FTD font `<repo_name>` can be used for your ftd web projects. 
+This FTD font `teko-typography` can be used for your ftd web projects. 
 
-To Use this <repo_name> inside `FTD` project visit [<repo_name>-typography](https://<user_name>.github.io/<repo_name>-typography).
+To Use this teko-typography inside `FTD` project visit [teko-typography-typography](https://saurabh-lohiya.github.io/teko-typography-typography).
 
--- site-doc.header: <repo_name> various sizes
+-- site-doc.header: teko-typography various sizes
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-12-400
+role: $custom.teko-typography-size-12-400
 color: $inherited.colors.text-strong
 
 `font-size: 12px, font-weight: 400` 
@@ -25,7 +25,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-12-800
+role: $custom.teko-typography-size-12-800
 color: $inherited.colors.text-strong
 
 `font-size: 12px, font-weight: 500` 
@@ -33,7 +33,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-12-800
+role: $custom.teko-typography-size-12-800
 color: $inherited.colors.text-strong
 
 `font-size: 12px, font-weight: 800` 
@@ -41,7 +41,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-18-400
+role: $custom.teko-typography-size-18-400
 color: $inherited.colors.text-strong
 
 `font-size: 18px, font-weight: 400` 
@@ -49,7 +49,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-18-500
+role: $custom.teko-typography-size-18-500
 color: $inherited.colors.text-strong
 
 `font-size: 18px, font-weight: 500` 
@@ -57,7 +57,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-18-800
+role: $custom.teko-typography-size-18-800
 color: $inherited.colors.text-strong
 
 `font-size: 18px, font-weight: 800` 
@@ -65,7 +65,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-48-400
+role: $custom.teko-typography-size-48-400
 color: $inherited.colors.text-strong
 
 `font-size: 48px, font-weight: 400` 
@@ -73,7 +73,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-48-500
+role: $custom.teko-typography-size-48-500
 color: $inherited.colors.text-strong
 
 `font-size: 48px, font-weight: 500` 
@@ -81,7 +81,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text:
-role: $custom.<repo_name>-size-48-800
+role: $custom.teko-typography-size-48-800
 color: $inherited.colors.text-strong
 
 `font-size: 48px, font-weight: 800` 
